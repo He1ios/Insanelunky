@@ -15,6 +15,8 @@ intro.xml
 
 Installation:
 
+or you can go to releases for the files
+
 1. run dxwebsetup.exe
 
 2. open mouselunky
